@@ -1,0 +1,10 @@
+black-черный
+black dog-черная собака
+brown-коричневый
+cat-кошка
+dog-собака
+gnom-гном
+green-зеленый
+house-дом
+red-красный
+yellow-желтый
